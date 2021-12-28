@@ -6,4 +6,5 @@ import "fmt"
 //что то
 func Hi(name string) string {
 	return fmt.Sprintf("Hi, %s", name)
+	// br1
 }
