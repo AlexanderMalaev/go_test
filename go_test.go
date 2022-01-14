@@ -2,7 +2,7 @@ package go_test
 
 import "fmt"
 
-//Приветствие
+//Приветствие 123
 //что то
 // еще давай
 func Hi(name string) string {
